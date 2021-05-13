@@ -9,19 +9,11 @@ Este ejemplo ha sido programado en 3 horas mientras charlábamos y comentábamos
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
-## Construido con 🛠️
-* [HTML5]
-* [CSS]
-* [SASS]
-* [VanillaJS]
 
 ## Vídeos relacionados en Youtube 🛠️
-
 * [Youtube](https://www.youtube.com/watch?v=JWV2rgTnbFQ)
 
-## Desarrollado con 🛠️
 
-* [Visual Studio Code]
 
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
