@@ -11,7 +11,7 @@ Este ejemplo ha sido programado en 3 horas mientras charlábamos y comentábamos
 
 
 ## Vídeos relacionados en Youtube 🛠️
-* [Youtube](https://www.youtube.com/watch?v=JWV2rgTnbFQ)
+* [https://www.youtube.com/watch?v=JWV2rgTnbFQ](https://www.youtube.com/watch?v=JWV2rgTnbFQ)
 
 
 
